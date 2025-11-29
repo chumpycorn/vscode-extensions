@@ -290,7 +290,7 @@ code --install-extension EXTENSION_ID  # Replace with real IDs below
 * **Error Lens** – Highlights errors/warnings inline.
 * **Bookmarks** – Mark and jump between important lines.
 
-##One Line Command to install all extensions above
+## One Line Command to install all extensions above
 
 
 ```bash
