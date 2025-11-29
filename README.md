@@ -290,6 +290,12 @@ code --install-extension EXTENSION_ID  # Replace with real IDs below
 * **Error Lens** – Highlights errors/warnings inline.
 * **Bookmarks** – Mark and jump between important lines.
 
----
+##One Line Command to install all extensions above
+
+
+```bash
+code --install-extension ms-vscode.cpptools && code --install-extension ms-vscode.cmake-tools && code --install-extension austin.code-gnu-global && code --install-extension dbaeumer.vscode-eslint && code --install-extension esbenp.prettier-vscode && code --install-extension ms-python.python && code --install-extension ms-python.vscode-pylance && code --install-extension ms-toolsai.jupyter && code --install-extension vscjava.vscode-java-pack && code --install-extension rust-lang.rust-analyzer && code --install-extension golang.Go && code --install-extension ms-dotnettools.csharp && code --install-extension bmewburn.vscode-intelephense-client && code --install-extension dart-code.dart-code && code --install-extension dart-code.flutter && code --install-extension ritwickdey.LiveServer && code --install-extension bradlc.vscode-tailwindcss && code --install-extension sqltools.sqltools && code --install-extension timonwong.shellcheck && code --install-extension streetsidesoftware.code-spell-checker && code --install-extension GitHub.copilot
+```
+
 
 
